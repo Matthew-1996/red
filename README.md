@@ -16,4 +16,4 @@ https://www.cnblogs.com/s-qiu/p/7019391.html
 1、从github克隆，保存在本地  
 2、修改本地文件，保存  
 3、将修改分支，**提交**到git
-4、！！！还要再推送到github
+4、！！！还要再从git推送到github（推送）
